@@ -1204,7 +1204,7 @@ async def dashboard():
             .status-indicator {
                 width: 12px;
                 height: 12px;
-                background: var(--secondary-color);
+                background-color: #00a;
             }
 
             .status-indicator.issue {
